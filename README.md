@@ -1,7 +1,29 @@
-# Listview dengan Provider
+### Laporan UTS Hasil Screenshoot Pemrograman Mobile
 
-Challenge untuk hacktoberfest :
-
-1. Tambahkan Fitur untuk Nambah Task baru sesuai dengan input user di page tambah task.
-2. Tambahkan fitur untuk validasi input di tambah task.
-3. Tambahkan fitur untuk disable button tambah task jika validasi input masih error.
+1. Tambahkan fitur untuk validasi input di tambah task.
+<br>
+Jawab : 
+ <img src="image/no1.jpeg" />
+2. Tambahkan fitur untuk disable button tambah task jika validasi input masih error.
+<br>
+Jawab : 
+<img src="image/no2.jpeg" />
+3. Tambahkan fitur swipe left delete task
+<br>
+Jawab : 
+<img src="image/no3.jpeg" />
+4. Tambahkan fitur swipe right go to edit task page
+<br>
+Jawab : 
+<img src="image/no4.jpeg" />
+5. Tambahkan fitur edit task.
+<br>
+<img src="image/no5.jpeg" />
+6. Tambahkan fitur validasi input di edit task.
+<br>
+Jawab : 
+<img src="image/no6.jpeg" />
+7. Tambahkan fitur disable button edit task jika validasi input masih error.
+<br>
+Jawab : 
+<img src="image/no7.jpeg" />
